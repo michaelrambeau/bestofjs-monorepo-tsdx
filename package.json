@@ -1,0 +1,14 @@
+{
+  "name": "bestofjs-monorepo",
+  "workspaces": [
+    "packages/bestofjs-core"
+  ],
+  "version": "0.0.1",
+  "description": "Best of JS monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Rambeau",
+  "license": "MIT"
+}
